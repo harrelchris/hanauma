@@ -1,3 +1,3 @@
 # Hanauma
 
-Daily reservation information for Hanauma Bay Nature Preserve.
+Hanauma Bay Nature Preserve daily reservation information.
